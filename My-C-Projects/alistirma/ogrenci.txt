@@ -1,0 +1,4 @@
+      AZAD      ANIL 215205012    1
+ Ali       Demir     215205023    1
+ MEHMET    DEMIR     215205013    1
+ azad      ançl      215205012    0
